@@ -1,5 +1,5 @@
 # Automatic-Number-plate-detection-for-Indian-vehicles
-5th semester EC351 (Introduction to Algorithms)  project: ANPR on Indian vehicles
+6th semester ECS-2 | Project: ANPR on Indian vehicles
 
 ## Automatic number plate recognition (ANPR):
 Number Plate recognition, also called License Plate realization or recognition using image processing methods is a potential research area in smart cities and the Internet of Things. An exponential increase in the number of vehicles necessitates the use of automated systems to maintain vehicle information for various purposes.
@@ -13,7 +13,8 @@ This project will work efficiently in recognizing owner's vehicle in small Insti
 
 ![Output](Result.png)
 
-Refer [Project_Report.pdf](Project_Report.pdf) and [Project Implementation vedio](https://drive.google.com/file/d/1ftCxlbQqHYLonTMoqEFcAyVe4OKleW2j/view?usp=sharing)  for more details regarding the implementation. 
+Refer [Project_Report.pdf](ECS-FINAL_REPORT_2024.pdf) 
+Trained Model Link with Weights : [Drive_Link](https://drive.google.com/drive/folders/14u3vEbZ_feCjdR59peJbeSdyAaU06a1M?usp=drive_link)
 
 Give the path of folders "Dataset" and "Search_image" while executing [Program.py](Program.py)
 ## References:
